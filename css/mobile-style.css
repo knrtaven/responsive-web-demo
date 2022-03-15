@@ -68,6 +68,17 @@
     }
 }
 
+@media only screen and (max-width:375px){
+    footer .row .col-md-2{
+        margin-top: 8vmin;
+    }
+
+    .section-4 .carousel-inner{
+        width: 22rem;
+        margin-left: -2vmin;
+    }
+}
+
 @media only screen and (max-width:320px){
     .section-4 .card{
         width:18rem;
