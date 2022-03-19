@@ -163,8 +163,9 @@ header .container .col-md-7 button{
     width: 100%;
     height: 55vmin;
     background:url('../assets/bike race.jpeg');
-    background-position: 0rem -19rem;
-    background-size: 100%;
+    background-position: 0rem 0rem;
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
 }
 
