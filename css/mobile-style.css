@@ -41,7 +41,7 @@
     }
 
     .section-4 .carousel-item{
-        padding-left: 0.6rem;
+        padding-left: 0rem;
     }
 
     .section-4 .team{
@@ -51,7 +51,7 @@
     }
 
     .section-4 .carousel-inner{
-        width: 14rem;
+        width: 13.5rem;
     }
 }
 
